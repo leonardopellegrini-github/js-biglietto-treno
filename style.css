@@ -1,0 +1,24 @@
+body{
+  text-align: center;
+  background-color: #01723E;
+  color: white;
+  font-family: Open Sans;
+}
+
+header{
+  height: 100px;
+  padding: 20px;
+}
+
+header img{
+  width: 250px;
+}
+
+h1{
+  font-size: 35px;
+  text-transform: uppercase;
+}
+
+h3{
+  font-size: 25px;
+}
